@@ -51,6 +51,7 @@ The APS Failure dataset from UCI Machine Learning Repository:
 - 171 features (all numeric)
 - Binary classification problem
 - Significant class imbalance (1,000 positive cases)
+- [Link to dataset](https://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks)
 
 ## Results
 - Comparative analysis of models with/without class imbalance handling
